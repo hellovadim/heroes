@@ -14,3 +14,4 @@
 
 Api при помощи Mockapi
 
+Посмотреть проект можно по ссылке https://hellovadim.github.io/heroes
